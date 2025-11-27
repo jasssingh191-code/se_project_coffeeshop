@@ -16,4 +16,4 @@ artist/ photographers able to share there pictures and work.
 
 This webpage is deplyed to Github Pages.
 
-- Deplyment Link:
+- [Deplyment Link](https://jasssingh191.github.io/se_project_spots/)
