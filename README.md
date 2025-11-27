@@ -1,16 +1,19 @@
-# Triple Peaks Coffee Shop
+Spots
 
-This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
+An image/portfolio sharing website.
 
-## Project features
+## Description
 
-- Semantic HTML5
-- Flexbox
-- Positioning
-- Flat BEM file structure
-- A custom form
-- CSS animation and transform
+artist/ photographers able to share there pictures and work.
 
-## Plan on improving the project
+## Tech Stack
 
-Add your ideas here :)
+- HTML
+- CSS
+- Responsive Design
+
+## Deployment
+
+This webpage is deplyed to Github Pages.
+
+- Deplyment Link:

@@ -1,0 +1,17 @@
+.footer {
+  min-height: 100vh;
+}
+
+.footer__copyright {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  display: flex;
+  justify-content: center;
+  font-family: "poppins", Arial, sans-serif;
+  font-style: regular;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 100%;
+  color: #212121;
+  opacity: 70%;
+}
